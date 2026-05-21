@@ -1,0 +1,5 @@
+2026-05-19 17:19:02,038 INFO Test.LoginTest [main] Data fetched from Excel
+2026-05-19 17:19:02,046 INFO Test.LoginTest [main] Home page opened
+2026-05-19 17:19:03,115 INFO Test.LoginTest [main] Login page opened
+2026-05-19 17:19:03,134 INFO Test.LoginTest [main] Login validation successful
+2026-05-19 17:19:03,134 INFO Test.LoginTest [main] Test Completed
