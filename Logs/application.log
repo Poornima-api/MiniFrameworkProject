@@ -3,3 +3,8 @@
 2026-05-19 17:19:03,115 INFO Test.LoginTest [main] Login page opened
 2026-05-19 17:19:03,134 INFO Test.LoginTest [main] Login validation successful
 2026-05-19 17:19:03,134 INFO Test.LoginTest [main] Test Completed
+2026-05-21 19:28:00,678 INFO Test.LoginTest [main] Data fetched from Excel
+2026-05-21 19:28:00,686 INFO Test.LoginTest [main] Home page opened
+2026-05-21 19:28:01,431 INFO Test.LoginTest [main] Login page opened
+2026-05-21 19:28:01,445 INFO Test.LoginTest [main] Login validation successful
+2026-05-21 19:28:01,445 INFO Test.LoginTest [main] Test Completed

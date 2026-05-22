@@ -1,0 +1,11 @@
+name: Demo Workflow
+
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Message
+        run: echo "Hello GitHub Actions"
