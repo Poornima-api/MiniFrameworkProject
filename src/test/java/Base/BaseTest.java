@@ -22,7 +22,7 @@ public void setup()
 	options.addArguments("--no-sandbox");
 	options.addArguments("--disable-dev-shm-usage");
 
-	WebDriver driver = new ChromeDriver(options);
+	driver = new ChromeDriver(options);
 	driver.manage().window().maximize();
 	driver.get("https://demowebshop.tricentis.com/");
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
@@ -31,6 +31,9 @@ public void setup()
 @AfterMethod
 public void teardown()
 {
+	if(driver!=null)
+	{
 	driver.quit();
+	}
 }
 }
