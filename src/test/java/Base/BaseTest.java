@@ -23,7 +23,7 @@ public void setup()
 	options.addArguments("--disable-dev-shm-usage");
 
 	driver = new ChromeDriver(options);
-	driver.manage().window().maximize();
+	//driver.manage().window().maximize();
 	driver.get("https://demowebshop.tricentis.com/");
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 	
