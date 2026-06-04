@@ -10,9 +10,16 @@ public HomePage(WebDriver driver)
 	this.driver=driver;
 }
 private By loginLink=By.xpath("//a[text()='Log in']");
+private By registerLink=By.xpath("//a[@class='ico-register']");
+public void registerlinkClick()
+{
+	driver.findElement(registerLink).click();
+}
 public void loginlinkClick()
 {
+	
 	driver.findElement(loginLink).click();
+	
 }
 
 
