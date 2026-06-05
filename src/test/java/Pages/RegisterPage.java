@@ -31,7 +31,7 @@ public void registration(String gender,String fn,String ln,String email,String p
 	driver.findElement(emailtxt).sendKeys(email);
 	driver.findElement(passwordtxt).sendKeys(pwd);
 	driver.findElement(confirmPasswordtxt).sendKeys(conpwd);
-	driver.findElement(registrbtn).clear();
+	driver.findElement(registrbtn).click();;
 	
 	
 }

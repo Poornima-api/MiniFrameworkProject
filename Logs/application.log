@@ -13,3 +13,18 @@
 2026-06-04 19:16:02,530 INFO Test.LoginTest [main] Login page opened
 2026-06-04 19:16:02,547 INFO Test.LoginTest [main] Login validation successful
 2026-06-04 19:16:02,548 INFO Test.LoginTest [main] Test Completed
+2026-06-05 15:40:13,013 INFO Test.LoginTest [main] Data fetched from Excel
+2026-06-05 15:40:13,020 INFO Test.LoginTest [main] Home page opened
+2026-06-05 15:40:14,142 INFO Test.LoginTest [main] Login page opened
+2026-06-05 15:40:14,167 INFO Test.LoginTest [main] Login validation successful
+2026-06-05 15:40:14,167 INFO Test.LoginTest [main] Test Completed
+2026-06-05 15:49:23,103 INFO Test.LoginTest [main] Data fetched from Excel
+2026-06-05 15:49:23,108 INFO Test.LoginTest [main] Home page opened
+2026-06-05 15:49:24,075 INFO Test.LoginTest [main] Login page opened
+2026-06-05 15:49:24,091 INFO Test.LoginTest [main] Login validation successful
+2026-06-05 15:49:24,091 INFO Test.LoginTest [main] Test Completed
+2026-06-05 15:50:56,533 INFO Test.LoginTest [main] Data fetched from Excel
+2026-06-05 15:50:56,539 INFO Test.LoginTest [main] Home page opened
+2026-06-05 15:50:57,525 INFO Test.LoginTest [main] Login page opened
+2026-06-05 15:50:57,544 INFO Test.LoginTest [main] Login validation successful
+2026-06-05 15:50:57,544 INFO Test.LoginTest [main] Test Completed
