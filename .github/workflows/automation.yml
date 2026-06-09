@@ -16,7 +16,10 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '21'
-
+      - name: Install Chrome and ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
       - name: Build and Run Tests
         run: mvn clean test
 
