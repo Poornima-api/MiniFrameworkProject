@@ -23,7 +23,7 @@ public class RegistrationTest extends BaseTest {
 
 	    RegisterPage rp =new RegisterPage(driver);
 
-	    rp.registration( "Male", "Sharath", "Patil",email, password, password);
+	    rp.registration( "Male", "Sharath", "HS",email, password, password);
 	    int row =ExcelUtility.getNextRowNumber();
 
 
